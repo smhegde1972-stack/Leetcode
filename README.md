@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smhegde1972-stack/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0941-valid-mountain-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
