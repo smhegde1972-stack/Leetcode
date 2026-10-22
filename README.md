@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/smhegde1972-stack/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/smhegde1972-stack/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/smhegde1972-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/smhegde1972-stack/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/smhegde1972-stack/Leetcode/tree/master/0455-assign-cookies) |
 | [0941-valid-mountain-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/smhegde1972-stack/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/smhegde1972-stack/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/smhegde1972-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/smhegde1972-stack/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
