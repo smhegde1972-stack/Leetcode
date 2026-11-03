@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/smhegde1972-stack/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/smhegde1972-stack/Leetcode/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/smhegde1972-stack/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/smhegde1972-stack/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/smhegde1972-stack/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/smhegde1972-stack/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/smhegde1972-stack/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/smhegde1972-stack/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/smhegde1972-stack/Leetcode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/smhegde1972-stack/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
