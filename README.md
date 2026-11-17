@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/smhegde1972-stack/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/smhegde1972-stack/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/smhegde1972-stack/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smhegde1972-stack/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/smhegde1972-stack/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
