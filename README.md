@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/smhegde1972-stack/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/smhegde1972-stack/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/smhegde1972-stack/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/smhegde1972-stack/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smhegde1972-stack/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smhegde1972-stack/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/smhegde1972-stack/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
