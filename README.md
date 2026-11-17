@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smhegde1972-stack/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/smhegde1972-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/smhegde1972-stack/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/smhegde1972-stack/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/smhegde1972-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/smhegde1972-stack/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/smhegde1972-stack/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/smhegde1972-stack/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/smhegde1972-stack/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/smhegde1972-stack/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/smhegde1972-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/smhegde1972-stack/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
