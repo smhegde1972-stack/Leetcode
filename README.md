@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/smhegde1972-stack/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/smhegde1972-stack/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/smhegde1972-stack/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/smhegde1972-stack/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/smhegde1972-stack/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/smhegde1972-stack/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/smhegde1972-stack/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/smhegde1972-stack/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
